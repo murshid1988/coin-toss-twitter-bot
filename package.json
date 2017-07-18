@@ -13,6 +13,13 @@
     "bot",
     "twitter"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/murshid1988/coin-toss-twitter-bot.git"
+  },
   "author": "Murshid Ahmed",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9"
+  }
 }
